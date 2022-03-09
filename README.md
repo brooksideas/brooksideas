@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Social Networking.
 - 🌱 I’m currently learning new things everyday.
 - 💞️ I’m looking to collaborate on Video Conferencing Open Source Tools
-- 💻 I'm proficient in Vue.Js , Nuxt.Js , React.Js , Node.Js , Flutter and Git 
+- 💻 I'm proficient in Vue.Js , Nuxt.Js , React.Js , Node.Js , .NET , MongoDB , SQL , Flutter and Git 
 - 📫 How to reach me brookstare@gmail.com brooksideas@gmail.com
 
 <!---
