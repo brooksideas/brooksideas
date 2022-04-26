@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Video Conferencing Open Source Tools
 - 💻 I'm proficient in Vue.Js , Nuxt.Js , React.Js , Node.Js , .NET , MongoDB , SQL , Flutter and Git 
 - 📫 How to reach me brookstare@gmail.com brooksideas@gmail.com
+- :star: You can see my stats visually here https://vuer.vercel.app/?u=brooksideas
 
 <!---
 brooksideas/brooksideas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
